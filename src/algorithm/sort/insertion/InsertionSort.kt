@@ -1,4 +1,4 @@
-package sort.insertion
+package algorithm.sort.insertion
 
 /**
  * Created by jaleel on 11.11.16.
